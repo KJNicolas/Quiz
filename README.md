@@ -1,2 +1,2 @@
 # Quiz
- Simple quiz made with mosly javascript
+ Simple quiz made with mostly javascript
